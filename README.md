@@ -90,6 +90,10 @@ Follow the guide for the **full instructions**.
 <details>
 <summary>Show command reference</summary>
 
+## Changes made
+
+I change the webpage accuring different data being observed. Added a duplicate word count to the columns to find out how many duplicate words are in the webpage.
+
 ### In a machine terminal (open in your `Repos` folder)
 
 After you get a copy of this repo in your own GitHub account,
